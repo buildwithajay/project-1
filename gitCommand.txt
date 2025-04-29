@@ -2,8 +2,6 @@ Git and Github Command
 
 This is the command and explanation based on my current understanding. If you find any mistakes, feel free to correct them and submit a pull request — I’ll be happy to review and merge it. This is the Day 1.
 
-
-
 Command	Description
 Mkdir	Create a directory
 Ls	List all the documents and files in the directory
