@@ -1,3 +1,0 @@
-this is the example repo for learning and practicing the git and github.
-Adding some changes to see the commits and tracking the file status
-
