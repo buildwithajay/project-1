@@ -1,0 +1,1 @@
+This is the day 2 of learning DevOps as a beginner. Today I am learnig about networking where networking helps to create a virtual network, firewalls and routing rules in devops
