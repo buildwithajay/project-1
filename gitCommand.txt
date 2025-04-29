@@ -1,0 +1,36 @@
+Git and Github Command
+
+This is the command and explanation based on my current understanding. If you find any mistakes, feel free to correct them and submit a pull request — I’ll be happy to review and merge it. This is the Day 1.
+
+
+
+Command	Description
+Mkdir	Create a directory
+Ls	List all the documents and files in the directory
+Ls -a	Show the hidden folders in the directory
+touch	Create a file into the directory
+Rm -rf (file name)	Used to remove the file from the directory
+Vi (file name)	Use to edit the files and make changes in existing files
+Cat	Helps to display the contents of the file
+Git init	Initialize the repository and control the process
+Git status	Helps to detect the changes in the project or a directory
+Git add (file names or .)	Use to put files in the staging area so they can be committed
+Git commit -m “message”	Used to save the changes of the files to track their history
+Git restore --staged (file name)	Use to remove the file from the staging area
+Git log	Used to see the history of the commits in the directory
+Git reset (commit id)	Used to remove a commit or undo changes that were committed
+Git stash	Used to temporarily save (backstage) changes without committing
+Git stash pop	Used to reapply the stashed changes
+Git stash clear	Used to delete all the stashed changes
+Git remote add origin <url>	Used to add a remote repository to your local repo
+Git push origin master	Used to push the local repository to the remote repository
+Git branch (branch name)	Used to create a new branch in your repo
+Git checkout (branch name)	Used to switch to another branch
+Git clone <url>	Used to clone a repository from GitHub to your local device
+Git remote add upstream <url>	Used to set the original repository as upstream
+Git push origin (branch name)	Used to create a pull request in GitHub for your changes
+Git push origin (branch name) -f	Used to force push the commit or changes
+Git fetch --all --prune	Used to fetch all branches and clean up deleted ones
+Git reset --hard upstream/main	Forcefully makes your branch exactly like the remote branch, deleting all your local changes
+Git fetch upstream	Used to fetch changes from the original repository
+Git merge upstream/master	Used to merge changes from the original repository into your local repo
