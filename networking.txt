@@ -1,1 +1,3 @@
 This is the day 2 of learning DevOps as a beginner. Today I am learnig about networking where networking helps to create a virtual network, firewalls and routing rules in devops
+
+This is the day 3 of learning a DevOps as a begineer. Today I learnt about what is osi model? How internet works?what is tcp/ip and udp? how two computer are connected to the network all of this. I will be creating a in-detailed documentation about networking for devOps later on so that the learner can easily understand the concept of networking.
